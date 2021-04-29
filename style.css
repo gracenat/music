@@ -6,6 +6,7 @@
 body {
   background-image: url(assets/pexels-pixabay-164821.jpg);
   background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .keys {
